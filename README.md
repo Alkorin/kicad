@@ -1,0 +1,4 @@
+kicad
+=====
+
+My kicad libraries
